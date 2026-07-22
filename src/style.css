@@ -1,0 +1,28 @@
+:root {
+  --primary-color: #1890ff;
+  --success-color: #52c41a;
+  --warning-color: #faad14;
+  --danger-color: #ff4d4f;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  height: 100%;
+}
+
+.page-container {
+  padding: 0;
+}
+
+.el-card {
+  border-radius: 8px;
+}
+
+.el-table {
+  border-radius: 4px;
+}
